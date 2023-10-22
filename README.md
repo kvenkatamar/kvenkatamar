@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Venkat Amar</b>, a 3rd year <b>Computer Science</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>Gokaraju Rangaraju Institute of Engineering and Technology</b>, Hyderabad</a>.
+    This is me <b>Venkat Amar</b>, a 3rd year <b>Computer Science</b> undergraduate from <a href="https://www.griet.ac.in/"> <b>Gokaraju Rangaraju Institute of Engineering and Technology</b>, Hyderabad</a>.
     An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
@@ -71,11 +71,12 @@
 </summary>
 <br>
 <p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsw-griet&theme=dark&count_private=true" />
   <a href="https://github.com/kvenkatamar">
     <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=kvenkatamar&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/kvenkatamar">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvenkatamr&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvenkatamar&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
   <p align="center"><img align="center" src="kvenkatamar" alt="kvenkatamar" /></p>
