@@ -78,7 +78,7 @@
     <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvenkatamr&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
-  <p align="center"><img align="center" src="venkatamar" alt="Ratheshan03" /></p>
+  <p align="center"><img align="center" src="kvenkatamar" alt="kvenkatamar" /></p>
 </details>
 
 ---
@@ -104,6 +104,7 @@
     <img align="left" alt="Venkat Amar| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
+  <br>
   
-<p align="right" > Created with 🖤 by <a href="https://github.com/kvenkatamar">Ratheshan03</a></p>
+<p align="right" > Created with 🖤 by <a href="https://github.com/kvenkatamar">Venkat Amar</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=kvenkatamar&label=Profile%20views&color=0e75b6&style=flat" alt="kvenkatamar" /> </p>
