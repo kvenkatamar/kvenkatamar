@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Venkat Amar</h1>
+<h1 align="center">Hi <img width="30" height="30" src="https://user-images.githubusercontent.com/44140921/119137937-0e555700-ba61-11eb-8bd8-c4cf32f9e005.gif">, I'm Venkat Amar</h1>
 <p align="center">
   <a href="https://github.com/kvenkatamar/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Web+Developer;DSA%20|%20Web%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
@@ -8,7 +8,8 @@
     This is me <b>Venkat Amar</b>, a 3rd year <b>Computer Science</b> undergraduate from <a href="https://www.griet.ac.in/"> <b>Gokaraju Rangaraju Institute of Engineering and Technology</b>, Hyderabad</a>.
     An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
-  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
+    <br>
+  <b><i>" Always Work Hard and Trust the Process "</i></b>
 </p>
 
 <h3>Little facts about me 🧑</h3>
@@ -22,7 +23,7 @@
 
 ---
 
-<details>
+<details open="">
 <summary>
   ✨ Tech stack currently using:
 </summary>
@@ -47,7 +48,7 @@
 </details>
 <br>
 
-<details>
+<details open="">
 <summary>
   🌱 Looking forward to learn:
 </summary>
@@ -71,7 +72,11 @@
 </summary>
 <br>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsw-griet&theme=dark&count_private=true" />
+  <a href="https://github.com/kvenkatamar">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsw-griet&theme=dark&count_private=true" />
+  </a>
+  <br>
+  <br>
   <a href="https://github.com/kvenkatamar">
     <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=kvenkatamar&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
@@ -79,7 +84,6 @@
     <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvenkatamar&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
-  <p align="center"><img align="center" src="kvenkatamar" alt="kvenkatamar" /></p>
 </details>
 
 ---
