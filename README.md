@@ -1,6 +1,7 @@
-<h1 align="center">Hi <img width="30" height="30" src="https://user-images.githubusercontent.com/44140921/119137937-0e555700-ba61-11eb-8bd8-c4cf32f9e005.gif">, I'm Venkat Amar</h1>
+<h1 align="center">Hi, I'm Venkat Amar</h1>
 <p align="center">
-  <a href="https://github.com/kvenkatamar/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Web+Developer;DSA%20|%20Web%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+<!--   <a href="https://github.com/kvenkatamar/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Web+Developer;DSA%20|%20Web%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a> -->
+    <h3> Developer | Programmer | ML Enthusiast </h3>
 </p>
 
 <p align="center">
@@ -12,6 +13,7 @@
   <b><i>" Always Work Hard and Trust the Process "</i></b>
 </p>
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
@@ -22,55 +24,34 @@
 <br>
 
 ---
-
-<details open="">
-<summary>
-  ✨ Tech stack currently using:
-</summary>
-   <br>
-<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
-<code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-<code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-<code><a href="https://id.heroku.com/login" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"  height="30"></a></code>
-<code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
-<code><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code>
- <code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
-<code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-<code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
-<code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***My working tools . . . .***
+  <br>
+   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<br />
+ [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
+  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
+  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
+  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007)
   
-</details>
-<br>
-
-<details open="">
-<summary>
-  🌱 Looking forward to learn:
-</summary>
-   <br>
-<code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
-<code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a></code>
-<code><a href="https://opencv.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></a></code>
-<code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
-</details>
-<br>
-
----
-
-<details open="">
-<summary>
- 📔 GitHub Stats:
-</summary>
-<br>
+  [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
+  [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
+  [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
+  [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
+  
+  [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007)
+  [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007)
+  [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
+  [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007)
+  
+  [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/Nishchal-007)](https://gitlab.com/Nishchal-007) 
+  [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007)
+  [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
+  [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007)
+  
+  <br><br><br><br><br>
+  <hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 <p align="center">
   <a href="https://github.com/kvenkatamar">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsw-griet&theme=dark&count_private=true" />
