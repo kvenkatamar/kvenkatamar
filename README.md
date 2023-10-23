@@ -4,6 +4,8 @@
     <h3 align="center"> Developer | Programmer | ML Enthusiast </h3>
 </p>
 
+<img align="right" alt="GIF" src="github.gif" />
+
 <p align="center">
   <em>
     This is me <b>Venkat Amar</b>, a 3rd year <b>Computer Science</b> undergraduate from <a href="https://www.griet.ac.in/"> <b>Gokaraju Rangaraju Institute of Engineering and Technology</b>, Hyderabad</a>.
@@ -27,8 +29,10 @@
 <hr>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"><b> My Skills </b>
-  <br>
-   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<br>
+   <img align="right" alt="GIF" src="/skills.gif" />
+<br>
+### 💻 &nbsp;Languages:
 <br>
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -43,6 +47,11 @@
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
     ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
     ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+<br>
+
+### 🚀 &nbsp;Technologies:
+<br>
+
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -54,22 +63,51 @@
     ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   <br><br><br><br><br>
   <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/><i><b>Git Activeness</b></i></p>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/><i><b>Git Activeness</b></i>
+</p>
+<p align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvenkatamar&theme=algolia&layout=compact"/>
+    <a href="https://leetcode.com/kvenkatamar">
+    <img width="40%" src="https://leetcode.card.workers.dev/kvenkatamar?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
+    </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/kvenkatamar">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsw-griet&theme=dark&count_private=true" />
-  </a>
-  <br>
-  <br>
-  <a href="https://github.com/kvenkatamar">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=kvenkatamar&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/kvenkatamar">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvenkatamar&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvenkatamar&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kvenkatamar&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kvenkatamar&theme=github-dark-blue&hide_border=true" />
+<!--     <img src="https://activity-graph.herokuapp.com/graph?username=kvenkatamar&theme=react-dark" /> -->
+</a>
 </p>
-</details>
+
+<!-- TODO: Update Repos 
+## 📕 Pinned Repositories
+<div align="center">
+<a href="https://github.com/king04aman/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kvenkatamar&repo=keylogger&show_icons=true&theme=tokyonight" />
+</a> &nbsp;&nbsp;
+<a href="https://github.com/king04aman/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kvenkatamar&repo=SDE-DSA-Preparation&show_icons=true&theme=tokyonight" />
+</a><br/>
+<a href="https://github.com/king04aman/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kvenkatamar&repo=phishing&show_icons=true&theme=tokyonight" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/king04aman/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kvenkatamar&repo=hacktoberfest2022&show_icons=true&theme=tokyonight" />
+</a><br/>
+</div> -->
+
+<hr>
+
+
+## 🏆 GitHub Trophy:
+<p align="center">
+<a href="https://github.com/kvenkatamar/">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kvenkatamar&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
 
 <hr>
 
