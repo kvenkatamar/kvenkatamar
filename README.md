@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Venkat Amar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Venkat Amar</h1>
 <p align="center">
 <!--   <a href="https://github.com/kvenkatamar/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Web+Developer;DSA%20|%20Web%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a> -->
-    <h3> Developer | Programmer | ML Enthusiast </h3>
+    <h3 align="center"> Developer | Programmer | ML Enthusiast </h3>
 </p>
 
 <p align="center">
@@ -13,8 +13,9 @@
   <b><i>" Always Work Hard and Trust the Process "</i></b>
 </p>
 
+<hr>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<h3>Little facts about me 🧑</h3>
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Little facts about me 🧑</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on Fullstack Web Development.
@@ -23,31 +24,34 @@
 - ⚡ Fun fact: I love Sports, especially Cricket.
 <br>
 
----
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***My working tools . . . .***
+<hr>
+
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> My Skills </h3>
   <br>
    <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-<br />
- [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007)
-  
-  [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
-  [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
-  [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
-  [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
-  
-  [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007)
-  [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007)
-  [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
-  [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007)
-  
-  [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/Nishchal-007)](https://gitlab.com/Nishchal-007) 
-  [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007)
-  [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007) 
-  [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/Nishchal-007)](https://github.com/Nishchal-007)
-  
+<br>
+
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+    	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+    ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+    ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+    ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
+    ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) 
+    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+    ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+    ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   <br><br><br><br><br>
   <hr>
   <p align="center">
@@ -67,7 +71,7 @@
 </p>
 </details>
 
----
+<hr>
 
 <h4> Connect with me🤝: <h4>
   </hr>
