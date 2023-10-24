@@ -1,14 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Venkat Amar</h1>
 
 <p align="center">
-    <h3 align="center"> Developer | Programmer | ML Enthusiast </h3>
+    <h3 align="center" color="green"> Developer | Programmer | ML Enthusiast </h3>
 </p>
 
 <!-- <img align="right" alt="GIF" src="github.gif" /> -->
 
 <p align="center">
     <em>
-        This is me <b>Venkat Amar</b>, a 3rd year <b>Computer Science</b> undergraduate from <a href="https://www.griet.ac.in/"> <b>Gokaraju Rangaraju Institute of Engineering and Technology</b>, Hyderabad</a>.
+        This is me <b>Venkat Amar</b>, a 3rd year <b>Computer Science</b> undergraduate from <a href="https://www.griet.ac.in/" color="white"> <b>Gokaraju Rangaraju Institute of Engineering and Technology</b>, Hyderabad</a>.
         An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b>Artificial Intelligence Enthusiast.</b> 
         <br>
         <br>
@@ -24,12 +24,12 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/><i><b> LITTLE FACTS ABOUT ME 🧑 </b></i>
 </p>
 
-
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on Fullstack Web Development.
 - 👯 I’m looking to collaborate with Fullstack Web Developement projects.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 - ⚡ Fun fact: I love Sports, especially Cricket.
+
 
 <hr>
 
@@ -126,15 +126,14 @@
 </p>
 
 <hr>
-
+<!--
 <h4>🏆 GITHUB TROPHIES:</h4>
-
 <p align="center">
     <a href="https://github.com/kvenkatamar/">
       <img width=800 src="https://github-profile-trophy.vercel.app/?username=kvenkatamar&column=8&theme=onedark&no-frame=true&no-bg=true"/>
     </a>
 </p>
-
+-->
 <hr>
 
 <h4> Connect with me🤝: <h4>
