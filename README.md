@@ -83,21 +83,19 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/><i><b>GIT ACTIVENESS</b></i>
 </p>
 
-<br>
-
 <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvenkatamar&theme=algolia&layout=compact"/>
-    <a href="https://leetcode.com/kvenkatamar">
-    <img width="40%" src="https://leetcode.card.workers.dev/kvenkatamar?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
-    </a>
+  <a href="https://github.com/kvenkatamar">
+    <img src="https://github-readme-stats.vercel.app/api?username=kvenkatamar&show_icons=true&theme=github_dark&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kvenkatamar&theme=github-dark-blue&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvenkatamar&theme=algolia&layout=compact"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvenkatamar&theme=github_dark" width="580px"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/kvenkatamar">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvenkatamar&theme=github_dark" /><br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=kvenkatamar&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kvenkatamar&theme=github-dark-blue&hide_border=true" />
-  </a>
+    <a href="https://leetcode.com/kvenkatamar" style="display: inline-block">
+        <img width="40%" src="https://leetcode.card.workers.dev/kvenkatamar?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
+    </a>
 </p>
 
 <!-- TODO: Update Repos 
