@@ -1,6 +1,9 @@
-<p align="center">
-    <img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/github.gif?raw=true" width="880px" height="360px">
-</p>
+<!-- <p align="center">
+    <img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/github.gif?raw=true" width="880px" height="300px">
+</p> -->
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Venkat Amar</h1>
 
 <p align="center">
@@ -38,9 +41,11 @@
 
 <h3 align="center">TECHNOLOGIES</h3>
 
-<img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/skills.gif?raw=true" width="250px" height="250px" align="right">
-<!-- <img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/skills.gif?raw=true" align="right" alt="GIF" width="100px" height="100px"> 
+<!-- <img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/skills.gif?raw=true" width="250px" height="250px" align="right">
+<img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/skills.gif?raw=true" align="right" alt="GIF" width="100px" height="100px"> 
 <h4>💻 Languages:</h4> -->
+
+<img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/skills3.gif?raw=true" width="300px" height="250px" align="right" style="transform: scale(1.1)">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -77,7 +82,7 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
-
+<br>
 
 <!-- <h4>🛠️ Technologies:</h4> -->
 
