@@ -4,7 +4,10 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<h1 align="center">Hi <img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/hi.gif?raw=true" width="30px" height="30px">, I'm Venkat Amar</h1>
+
+<img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/hi.gif?raw=true" style="display:inline-block" align="left" width="40px" height="40px">
+<img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/hi.gif?raw=true" style="display:inline-block" align="right" width="40px" height="40px">
+<h1 align="center">Hi , I'm Venkat Amar</h1>
 
 <p align="center">
     <h3 align="center" color="green"> Developer | Programmer | ML Enthusiast </h3>
