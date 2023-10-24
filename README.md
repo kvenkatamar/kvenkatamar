@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/github.gif?raw=true" width="880px" height="360px">
+</p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Venkat Amar</h1>
 
 <p align="center">
@@ -35,6 +38,7 @@
 
 <h3 align="center">TECHNOLOGIES</h3>
 
+<img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/skills.gif?raw=true" width="250px" height="250px" align="right">
 <!-- <img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/skills.gif?raw=true" align="right" alt="GIF" width="100px" height="100px"> 
 <h4>💻 Languages:</h4> -->
 
