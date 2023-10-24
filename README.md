@@ -5,8 +5,8 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
-<img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/hi.gif?raw=true" style="display:inline-block" align="left" width="40px" height="40px">
-<img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/hi.gif?raw=true" style="display:inline-block" align="right" width="40px" height="40px">
+<img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/hi.gif?raw=true" style="display:inline-block" align="left" width="55px" height="55px">
+<img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/hi.gif?raw=true" style="display:inline-block" align="right" width="55px" height="55px">
 <h1 align="center">Hi , I'm Venkat Amar</h1>
 
 <p align="center">
