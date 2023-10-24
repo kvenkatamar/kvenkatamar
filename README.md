@@ -18,7 +18,7 @@
 
 <hr>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align="left">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/><i><b> LITTLE FACTS ABOUT ME 🧑 </b></i>
@@ -121,7 +121,7 @@
 
 <p align="center">
     <a href="https://holopin.io/@kvenkatamar">
-        <img src="https://holopin.io/api/user/board?user=kvenkatamar" />
+        <img src="https://holopin.io/api/user/board?user=kvenkatamar"/>
     </a>
 </p>
 
@@ -133,8 +133,8 @@
       <img width=800 src="https://github-profile-trophy.vercel.app/?username=kvenkatamar&column=8&theme=onedark&no-frame=true&no-bg=true"/>
     </a>
 </p>
--->
 <hr>
+-->
 
 <h4> Connect with me🤝: <h4>
 </hr>
