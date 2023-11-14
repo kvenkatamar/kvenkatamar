@@ -7,11 +7,11 @@
 
 <img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/hi.gif?raw=true" style="display:inline-block" align="left" width="55px" height="55px">
 <img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/hi.gif?raw=true" style="display:inline-block" align="right" width="55px" height="55px">
-<h1 align="center">Hi , I'm Venkat Amar</h1>
+<h1 align="center">Hi<b>👋</b> I'm Venkat Amar</h1>
 
-<p align="center">
-    <h3 align="center" color="green"> Developer | Programmer | ML Enthusiast </h3>
-</p>
+<!-- <p align="center"> -->
+<h3 align="center" color="green"> Developer | Programmer | ML Enthusiast </h3>
+<!-- </p> -->
 
 <!-- <img align="right" alt="GIF" src="github.gif" /> -->
 
