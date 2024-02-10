@@ -161,9 +161,9 @@
 <a href="https://www.instagram.com/iamvenkatamar/">
     <img align="left" alt="Venkat Amar | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100003874786181">
+<!-- <a href="https://www.facebook.com/profile.php?id=100003874786181">
     <img align="left" alt="Venkat Amar | Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-</a>
+</a> -->
 <a href="https://github.com/kvenkatamar">
     <img align="left" alt="Venkat Amar | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 </a>
